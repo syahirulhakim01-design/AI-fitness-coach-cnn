@@ -1,20 +1,20 @@
+# AI Fitness Coaching Using Convolutional Neural Network (CNN)
 
-AI Fitness Coaching Using Convolutional Neural Network (CNN)
-Project Overview
-AI Fitness Coaching is an Android mobile application designed to assist beginner fitness users in achieving their exercise goals. The application combines Convolutional Neural Network (CNN) image classification with personalized workout recommendations based on user preferences, experience level, available equipment, and fitness goals.
-Problem Statement
-Many beginners face challenges when starting a fitness journey:
+## Project Summary
 
-1. Difficulty selecting exercises that match their skill and experience level.
-2. Limited access to personalized exercise guidance without hiring a professional trainer.
-3. Difficulty tracking workout activities and monitoring progress consistently.
-This project addresses these issues by providing an accessible AI-powered fitness coaching platform.
-Target Users
+AI Fitness Coaching is an Android mobile application that helps beginner fitness users receive personalized workout recommendations. The application combines Convolutional Neural Network (CNN) image classification with user fitness profiles, goals, available equipment, and workout preferences to provide suitable workout suggestions.
 
-- Students who are new to fitness and require workout guidance.
-- Gym enthusiasts who want to track their workout performance and progress.
-Main Features
-Functional Requirements
+## Problem Statement
+
+Many beginners face difficulties when starting a fitness journey. They often struggle to select appropriate exercises, access personalized fitness guidance, and consistently track their workout progress. Without professional support, users may find it difficult to maintain motivation and achieve their fitness goals.
+
+## Target Users
+
+- Students who are new to fitness
+- Gym enthusiasts who want to track workout progress
+- Individuals seeking beginner-friendly workout recommendations
+
+## Features
 
 - User Registration and Login
 - Fitness Profile Management
@@ -24,7 +24,8 @@ Functional Requirements
 - Exercise Instructions
 - Workout Recording
 - Progress Monitoring
-Technologies Used
+
+## Technologies Used
 
 - TensorFlow
 - Keras
@@ -33,27 +34,22 @@ Technologies Used
 - Java
 - XML
 - MySQL
-Documentation
 
-- Problem Statement
-- Requirements
-- User Stories
-- System Concept
-Project Status
+## Documentation
+
+- [Problem Statement](docs/problem-statement.md)
+- [Requirements](docs/requirements.md)
+- [User Stories](docs/user-stories.md)
+- [System Concept](docs/system-concept.md)
+
+## Project Status
+
 🟡 Planning and Development Phase
-Repository Structure
-.
-├── README.md
-├── docs/
-│   ├── problem-statement.md
-│   ├── requirements.md
-│   ├── user-stories.md
-│   └── system-concept.md
-├── android-app/
-└── cnn-model/
-Author
-Syahirul Hakim Bin Kamaruzaman
-Bachelor of Computer Science (Hons.) Universiti Teknologi MARA (UiTM)
-Course
-CSC649 – Special Topics in Computer Scien
 
+## Author
+
+Syahirul Hakim Bin Kamaruzaman
+
+Bachelor of Computer Science (Hons.)
+
+Universiti Teknologi MARA (UiTM)
