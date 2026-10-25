@@ -1,8 +1,27 @@
-# AI-fitness-coach-cnn
-AI Fitness Coaching Android application using Convolutional Neural Network (CNN) for image classification and personalized workout recommendations.
+AI Fitness Coaching Using CNN
+
+Project Summary
+Android application that uses CNN image classification and personalized workout recommendations for beginners.
+
+Problem Statement
+Many beginners struggle to choose suitable exercises, receive personalized guidance, and monitor workout progress.
 
 Documentation
-Problem Statement.md
-Requirements.md
-User Stories.md
-System Concept.md
+Problem Statement
+Requirements
+User Stories
+System Concept
+
+Status
+Planning Phase
+
+Author
+Syahirul Hakim
+
+Technologies
+TensorFlow
+Keras
+Android Studio
+Java
+MySQL
+
